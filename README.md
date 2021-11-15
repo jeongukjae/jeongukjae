@@ -1,4 +1,10 @@
-### Hi there 👋
+### Ukjae Jeong [@jeongukjae](https://github.com/jeongukjae)
+
+### 📫 How to reach me
+
+* Mail: [jeongukjae@gmail.com](mailto:jeongukjae@gmail.com)
+* LinkedIn: [www.linkedin.com/in/jeongukjae/](https://www.linkedin.com/in/jeongukjae/)
+* Blog: [jeongukjae.github.io](https://jeongukjae.github.io)
 
 <!--
 **jeongukjae/jeongukjae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
