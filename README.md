@@ -1,4 +1,4 @@
-### Ukjae Jeong [@jeongukjae](https://github.com/jeongukjae)
+### Ukjae Jeong, 정욱재, [@jeongukjae](https://github.com/jeongukjae)
 
 ### 📫 How to reach me
 
