@@ -7,7 +7,7 @@ Personal homepage: <https://about.ukjae.io>
 * [LinkedIn (jeongukjae)](https://www.linkedin.com/in/jeongukjae/)
 * [Email (jeongukjae@gmail.com)](mailto:jeongukjae@gmail.com)
 * [GitHub (@jeongukjae)](https://www.github.com/jeongukjae/)
-* [Engineering Blog (jeongukjae.github.io)](https://jeongukjae.github.io)
+* [Engineering Blog (blog.ukjae.io)](https://blog.ukjae.io)
 * [Medium (@jeongukjae)](https://medium.com/@jeongukjae)
 * [Twitter (@jeongukjae)](https://twitter.com/jeongukjae)
 * [Facebook (JeongUkJae)](https://www.facebook.com/JeongUkJae/)
